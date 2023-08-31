@@ -23,7 +23,7 @@
             const accessToken = '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';
             
             // اسم المستودع ومسار الملف على GitHub
-            const repo = ' ..github.io';
+            const repo = '-.github.io';
             const filePath = 'README.md';
             
             // رابط API لحفظ الملف
